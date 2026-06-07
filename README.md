@@ -106,14 +106,6 @@
 - 🏐 Secured **Winner Position in Volleyball Competition**, showcasing teamwork and competitive spirit.
 ---
 
-## 📊 GitHub Stats
-
-![Neeraja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BNeeraja123&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BNeeraja123&layout=compact)
-
----
-
 ## 💻 Coding Profiles
 
 I actively practice coding challenges to strengthen my understanding of Data Structures, Algorithms, and Software Engineering fundamentals.
