@@ -63,6 +63,7 @@
 
 **Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `JWT` `Git` `GitHub`
 
+---
 ## 📌 Featured Projects
 
 ### 🏥 DocSpot – Seamless Appointment Booking for Health
