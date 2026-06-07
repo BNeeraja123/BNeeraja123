@@ -1,15 +1,15 @@
 # Hi there 👋, I'm Boya Neeraja
 
-🎓 CSE Undergraduate with 9.59 CGPA | ☕ Java & SQL Enthusiast | 🚀 Full Stack Developer | 🏆 NCC Cadet | 🤝 SARO Cordinator
+🎓 CSE Undergraduate  | ☕ Java & SQL Enthusiast | 🚀 Full Stack Developer | 🏆 NCC Cadet | 🤝 SARO Cordinator
 
 ---
+![](https://komarev.com/ghpvc/?username=BNeeraja123&color=blue)
 
 ## 🚀 About Me
 
 - 🎓 Computer Science Engineering student with a strong academic record (CGPA: 9.59).
 - ☕ Skilled in Java, SQL, and software development fundamentals.
 - 🌐 Full Stack Development enthusiast with hands-on experience building real-world web applications.
-- 💡 Passionate about solving problems through clean, efficient, and scalable solutions.
 - 🚀 Continuously exploring new technologies and transforming ideas into impactful projects.
 - 🎖️ NCC Cadet with proven leadership, discipline, and teamwork skills.
 - 📚 Strong believer in lifelong learning and consistent self-improvement.
@@ -48,17 +48,50 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
+## 💼 Internship Experience
+
+🚀 **Full Stack Development Intern** 
+**SmartBridge Educational Services Pvt. Ltd.** | APSCHE                                              
+
+📅 **May 2025 – July 2025**
+
+- Developed full-stack web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
+- Designed and implemented RESTful APIs for efficient data management.
+- Worked with database integration, authentication, and backend development.
+- Built and deployed **DocSpot – Seamless Appointment Booking for Health**, a healthcare appointment booking platform.
+- Collaborated in an agile learning environment and gained hands-on experience in modern web development practices.
+
+**Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `JWT` `Git` `GitHub`
 
 ## 📌 Featured Projects
 
-### 🏥 DocSpot
-Healthcare Appointment Booking Platform built using MERN Stack with JWT Authentication.
+### 🏥 DocSpot – Seamless Appointment Booking for Health
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT
 
-### 🤖 AI Chat Assistant
-AI-powered Chat Application using JSP, Servlets, JDBC, MySQL, and Gemini API.
+- Developed a healthcare appointment booking platform enabling seamless appointment scheduling.
+- Implemented secure JWT-based authentication and authorization.
+- Designed and integrated RESTful APIs with MongoDB for efficient data management.
+- Enabled doctor availability management and appointment tracking.
+
+---
+
+### 🤖 AI Chat Assistant Web Application
+**Tech Stack:** JSP, Servlets, JDBC, MySQL, Gemini API
+
+- Developed an AI-powered chat assistant capable of handling conversational queries.
+- Integrated Gemini API to generate intelligent and context-aware responses.
+- Implemented JDBC connectivity and MySQL database integration.
+- Managed user sessions and optimized backend operations for improved performance.
+
+---
 
 ### 📄 Resume Relevance Checker
-Resume evaluation system using React.js and Node.js.
+**Tech Stack:** React.js, Node.js, JavaScript
+
+- Built a resume evaluation system using keyword matching techniques.
+- Achieved 85% relevance scoring accuracy across sample datasets.
+- Developed a responsive user interface providing real-time resume analysis.
+- Improved resume screening efficiency through automated evaluation.
 
 ---
 
@@ -83,9 +116,13 @@ Resume evaluation system using React.js and Node.js.
 
 ## 💻 Coding Profiles
 
-- LeetCode: boya_neeraja21
-- CodeChef: bneeraja_21
-- GeeksforGeeks: neerajagbf9
+I actively practice coding challenges to strengthen my understanding of Data Structures, Algorithms, and Software Engineering fundamentals.
+
+- 🟠 LeetCode: https://leetcode.com/u/boya_neeraja21/
+- 🟤 CodeChef: https://www.codechef.com/users/bneeraja_21
+- 🟢 GeeksforGeeks: https://auth.geeksforgeeks.org/user/neerajagbf9/
+
+> Consistent learning and problem-solving are the foundation of becoming a better software engineer.
 
 ---
 
