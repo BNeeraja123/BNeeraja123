@@ -1,74 +1,103 @@
 # Hi there 👋, I'm Neeraja
 
-### 💻 Computer Science Engineering Student
-
-- 🔭 I’m currently working on Full Stack Web Development Projects
-- 🌱 I’m currently learning React.js, Java, SQL, and DSA
-- 👯 I’m looking to collaborate on Web Development Projects
-- 💬 Ask me about Java, SQL, HTML, CSS, JavaScript, and React
-- 📫 How to reach me: your-email@example.com
-- ⚡ Fun fact: I love building projects that solve real-world problems
+🎓 Computer Science Engineering Student  
+💻 Java Developer | Full Stack Learner | Problem Solver
 
 ---
 
-## 🚀 Skills
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student with 9.59 CGPA
+- 🌱 Currently learning React.js, MERN Stack, and DSA
+- 💻 Strong in Java, SQL, OOP, DBMS, Git & GitHub
+- 🤝 Open to collaborating on Web Development Projects
+- ⚡ NCC Cadet | Leader | Team Player
+
+---
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|----------|-------------|------|--------|
+| B.Tech in Computer Science & Engineering | Srinivasa Ramanujan Institute of Technology (SRIT), Anantapur | 2023 - Present | CGPA: 9.59 |
+| Intermediate (MPC) | Government Junior College, Penukonda | 2021 - 2023 | 97% |
+| SSC | Government Girls High School, Anantapur | 2020 - 2021 | 96.5% |
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
-- Java
-- SQL
-- JavaScript
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
-- HTML5
-- CSS3
-- React.js
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend & Database
-- Node.js
-- Express.js
-- MongoDB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools
-- Git
-- GitHub
-- VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🏫 Campus Connect
-Faculty navigation and department management platform for educational institutions.
-
 ### 🏥 DocSpot
-Healthcare appointment booking platform with secure authentication and appointment scheduling.
+Healthcare Appointment Booking Platform built using MERN Stack with JWT Authentication.
 
-### 🤖 AI Story Generator
-AI-powered story generation application using Gemini API.
+### 🤖 AI Chat Assistant
+AI-powered Chat Application using JSP, Servlets, JDBC, MySQL, and Gemini API.
 
----
+### 📄 Resume Relevance Checker
+Resume evaluation system using React.js and Node.js.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BNeeraja123&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BNeeraja123&layout=compact)
+### 🏫 Campus Connect
+Faculty Tracking and Navigation System.
 
 ---
 
 ## 🏆 Achievements
 
-- NCC Cadet
-- Computer Science Engineering Student
-- Passionate about Software Development and Problem Solving
+- 🎓 Maintaining a strong academic record with a **CGPA of 9.59** in B.Tech Computer Science & Engineering.
+- 🥇 Secured **1st Position in Intermediate (MPC)** with **97%** and received an **Academic Scholarship** for outstanding performance.
+- 💡 Awarded **Merit Scholarship** in **Code4EdTech Hackathon 2025**.
+- 🎖️ Earned **NCC B & C Certificates**, demonstrating leadership, discipline, and teamwork.
+- 📢 Presented **Campus Connect – A Faculty Tracker System** at **CRATE 2025**.
+- 🚀 Participated in **Sarvagyna 2K25 Hackathon** and **Code4EdTech Hackathon 2025**.
+- 🏐 Secured **Winner Position in Volleyball Competition**, showcasing teamwork and competitive spirit.
+---
+
+## 📊 GitHub Stats
+
+![Neeraja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BNeeraja123&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BNeeraja123&layout=compact)
+
+---
+
+## 💻 Coding Profiles
+
+- LeetCode: boya_neeraja21
+- CodeChef: bneeraja_21
+- GeeksforGeeks: neerajagbf9
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/BNeeraja123
-- LinkedIn: Add Your LinkedIn Profile Link Here
+- 📧 Email: boyaneeraja21@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/boya-neeraja
+- 🌐 GitHub: https://github.com/BNeeraja123
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ *"Code. Learn. Build. Repeat."*
