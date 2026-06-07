@@ -1,18 +1,18 @@
-# Hi there 👋, I'm Neeraja
+# Hi there 👋, I'm Boya Neeraja
 
-🎓 Computer Science Engineering Student  
-💻 Java Developer | Full Stack Learner | Problem Solver
+🎓 CSE Undergraduate with 9.59 CGPA | ☕ Java & SQL Enthusiast | 🚀 Full Stack Developer | 🏆 NCC Cadet | 🤝 SARO Cordinator
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student with 9.59 CGPA
-- 🌱 Currently learning React.js, MERN Stack, and DSA
-- 💻 Strong in Java, SQL, OOP, DBMS, Git & GitHub
-- 🤝 Open to collaborating on Web Development Projects
-- ⚡ NCC Cadet | Leader | Team Player
-
+- 🎓 Computer Science Engineering student with a strong academic record (CGPA: 9.59).
+- ☕ Skilled in Java, SQL, and software development fundamentals.
+- 🌐 Full Stack Development enthusiast with hands-on experience building real-world web applications.
+- 💡 Passionate about solving problems through clean, efficient, and scalable solutions.
+- 🚀 Continuously exploring new technologies and transforming ideas into impactful projects.
+- 🎖️ NCC Cadet with proven leadership, discipline, and teamwork skills.
+- 📚 Strong believer in lifelong learning and consistent self-improvement.
 ---
 ## 🎓 Education
 
@@ -26,27 +26,27 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
+### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
+![Servlets](https://img.shields.io/badge/Servlets-6DB33F?style=for-the-badge)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
 
-### Tools
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
 ## 📌 Featured Projects
@@ -59,9 +59,6 @@ AI-powered Chat Application using JSP, Servlets, JDBC, MySQL, and Gemini API.
 
 ### 📄 Resume Relevance Checker
 Resume evaluation system using React.js and Node.js.
-
-### 🏫 Campus Connect
-Faculty Tracking and Navigation System.
 
 ---
 
@@ -95,7 +92,7 @@ Faculty Tracking and Navigation System.
 ## 📫 Connect With Me
 
 - 📧 Email: boyaneeraja21@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/boya-neeraja
+- 💼 LinkedIn: https://linkedin.com/in/boya-neeraja-3768752bb
 - 🌐 GitHub: https://github.com/BNeeraja123
 
 ---
